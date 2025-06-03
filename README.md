@@ -21,32 +21,6 @@ Ensure you have the following installed:
 - Python 3.8 or higher
 - pip (Python package manager)
 
-### Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/<your-username>/AIML.git
-    cd AIML
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Usage
-
-Explore the available modules and notebooks in the `examples` or `notebooks` directory. You can run sample scripts as follows:
-
-```bash
-python examples/sample_classification.py
-```
-
-Or open a Jupyter notebook:
-
-```bash
-jupyter notebook notebooks/
-```
-
 ## Project Structure
 
 ```
